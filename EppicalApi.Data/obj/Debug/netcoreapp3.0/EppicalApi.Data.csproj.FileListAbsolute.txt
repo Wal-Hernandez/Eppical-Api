@@ -1,0 +1,13 @@
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.csproj.AssemblyReference.cache
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.AssemblyInfoInputs.cache
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.AssemblyInfo.cs
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\bin\Debug\netcoreapp3.0\EppicalApi.Data.deps.json
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\bin\Debug\netcoreapp3.0\EppicalApi.Data.dll
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\bin\Debug\netcoreapp3.0\EppicalApi.Data.pdb
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\bin\Debug\netcoreapp3.0\EppicalApi.Models.dll
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\bin\Debug\netcoreapp3.0\EppicalApi.Models.pdb
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.csproj.CopyComplete
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.dll
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Data\obj\Debug\netcoreapp3.0\EppicalApi.Data.pdb

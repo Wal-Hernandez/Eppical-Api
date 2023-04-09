@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EppicalProject", "EppicalProject\EppicalProject.csproj", "{CC414B17-DC08-4094-89D7-1EF38505C92C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Backend", "00.Backend", "{262DB7EA-B30F-4840-8793-2CAB32AEE252}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Services", "01.Services", "{D923F8BC-B41D-4F58-A048-E09C474B726F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EppicalApi.Services", "EppicalApi.Services\EppicalApi.Services.csproj", "{13A203DF-657A-487E-A5DF-56D81B5D2732}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Infraestructure", "02.Infraestructure", "{737EE0F1-1C6A-4F11-A8D3-08491B5AF335}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Models", "03.Models", "{E626008F-A852-4993-8744-1FBEA6FCC774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EppicalApi.Models", "EppicalApi.Models\EppicalApi.Models.csproj", "{D581B494-3B01-404B-B5B8-877736929ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EppicalApi.Data", "EppicalApi.Data\EppicalApi.Data.csproj", "{D7249826-FF19-4962-8804-84B25BEF170F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC414B17-DC08-4094-89D7-1EF38505C92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC414B17-DC08-4094-89D7-1EF38505C92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC414B17-DC08-4094-89D7-1EF38505C92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC414B17-DC08-4094-89D7-1EF38505C92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A203DF-657A-487E-A5DF-56D81B5D2732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A203DF-657A-487E-A5DF-56D81B5D2732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A203DF-657A-487E-A5DF-56D81B5D2732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A203DF-657A-487E-A5DF-56D81B5D2732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D581B494-3B01-404B-B5B8-877736929ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D581B494-3B01-404B-B5B8-877736929ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D581B494-3B01-404B-B5B8-877736929ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D581B494-3B01-404B-B5B8-877736929ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7249826-FF19-4962-8804-84B25BEF170F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7249826-FF19-4962-8804-84B25BEF170F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7249826-FF19-4962-8804-84B25BEF170F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7249826-FF19-4962-8804-84B25BEF170F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC414B17-DC08-4094-89D7-1EF38505C92C} = {262DB7EA-B30F-4840-8793-2CAB32AEE252}
+		{13A203DF-657A-487E-A5DF-56D81B5D2732} = {D923F8BC-B41D-4F58-A048-E09C474B726F}
+		{D581B494-3B01-404B-B5B8-877736929ECF} = {E626008F-A852-4993-8744-1FBEA6FCC774}
+		{D7249826-FF19-4962-8804-84B25BEF170F} = {737EE0F1-1C6A-4F11-A8D3-08491B5AF335}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B33621B-5FBC-4A5A-A585-74841208FF6E}
+	EndGlobalSection
+EndGlobal

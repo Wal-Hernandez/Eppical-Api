@@ -1,0 +1,15 @@
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.csproj.AssemblyReference.cache
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.AssemblyInfoInputs.cache
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.AssemblyInfo.cs
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\bin\Debug\netcoreapp3.0\EppicalApi.Services.deps.json
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\bin\Debug\netcoreapp3.0\EppicalApi.Services.dll
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\bin\Debug\netcoreapp3.0\EppicalApi.Services.pdb
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\bin\Debug\netcoreapp3.0\EppicalApi.Data.dll
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\bin\Debug\netcoreapp3.0\EppicalApi.Models.dll
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\bin\Debug\netcoreapp3.0\EppicalApi.Data.pdb
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\bin\Debug\netcoreapp3.0\EppicalApi.Models.pdb
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.csproj.CopyComplete
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.dll
+C:\Users\walslipk\source\repos\EppicalApi\EppicalApi.Services\obj\Debug\netcoreapp3.0\EppicalApi.Services.pdb
